@@ -10,8 +10,11 @@ This application consists of all the items that belong to the store according to
 In the project directory, you can run:
 
 npm run dev
+
 nodemon index.js
+
 npm start
+
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
